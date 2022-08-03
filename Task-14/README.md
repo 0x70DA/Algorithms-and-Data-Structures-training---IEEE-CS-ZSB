@@ -1,6 +1,5 @@
 # Task 14
 
-<center>
 
 | Problem Name | Problem Link |
 | :------------: | :------------: |
@@ -12,5 +11,3 @@
 | Palindromic Substrings | [Link](https://leetcode.com/problems/palindromic-substrings/)|
 | Decode Ways | [Link](https://leetcode.com/problems/decode-ways/)|
 | Coin Change | [Link](https://leetcode.com/problems/coin-change/)|
-
-</center>
