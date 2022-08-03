@@ -1,6 +1,5 @@
 # Task 14
 
-
 | Problem Name | Problem Link |
 | :------------: | :------------: |
 | Climbing Stairs | [Link](https://leetcode.com/problems/climbing-stairs/)|
